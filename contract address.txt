@@ -1,0 +1,2 @@
+0x3985934DbeaA48a1db59Bf003CBC8226b08E300c -- nft contract address
+0x6d32C65986e51b021f7f9294E48F7Beb42d794f8 -- whitelist contract address
