@@ -34,8 +34,8 @@ export default function Home() {
       // call the presaleMint from the contract, only whitelisted addresses would be able to mint
       const tx = await nftContract.presaleMint({
         // value signifies the cost of one crypto dev which is "0.01" eth.
-        // We are parsing `0.01` string to ether using the utils library from ethers.js
-        value: utils.parseEther("0.01"),
+        // We are parsing `0.002` string to ether using the utils library from ethers.js
+        value: utils.parseEther("0.002"),
       });
       setLoading(true);
       // wait for the transaction to get mined
@@ -60,8 +60,8 @@ export default function Home() {
       // call the mint from the contract to mint the Crypto Dev
       const tx = await nftContract.mint({
         // value signifies the cost of one crypto dev which is "0.01" eth.
-        // We are parsing `0.01` string to ether using the utils library from ethers.js
-        value: utils.parseEther("0.01"),
+        // We are parsing `0.002` string to ether using the utils library from ethers.js
+        value: utils.parseEther("0.002"),
       });
       setLoading(true);
       // wait for the transaction to get mined

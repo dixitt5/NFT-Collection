@@ -13,7 +13,7 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
     string _baseTokenURI;
 
     //  _price is the price of one Crypto Dev NFT
-    uint256 public _price = 0.01 ether;
+    uint256 public _price = 0.002 ether;
 
     // _paused is used to pause the contract in case of an emergency
     bool public _paused;
