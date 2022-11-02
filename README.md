@@ -1,4 +1,4 @@
 # NFT-Collection
 
 To watch the Implementation video :
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6993188125359398914" height="1347" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/posts/dixit5_web3-solidity-nextjs-activity-6993188340720123904-vx7-?utm_source=share&utm_medium=member_desktop
